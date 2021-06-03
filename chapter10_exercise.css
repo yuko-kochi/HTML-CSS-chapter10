@@ -83,6 +83,10 @@ footer {
     margin: 20px 5% 0;
   }
 
+  .box:first-child{
+    margin-top: 0;
+  }
+
   .footer {
     width: 100%;
     height: 50px;
